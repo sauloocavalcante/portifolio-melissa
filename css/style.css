@@ -501,7 +501,7 @@ footer {
 .back-to-top {
     position: fixed;
     bottom: 30px;
-    right: 30px;
+    left: 30px;
     background: #6b3fa0;
     color: white;
     width: 50px;
@@ -648,7 +648,7 @@ footer {
     .back-to-top {
         width: 44px;
         height: 44px;
-        right: 15px;
+        left: 15px;
         bottom: 15px;
     }
 
