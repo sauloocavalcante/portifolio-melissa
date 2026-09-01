@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melissa Buarque - Matérias</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="js/backtop.js" defer></script>
+</head>
+
+<body>
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <section class="page">
+            <div class="categoria-header">
+                <h2 id="titulo-categoria"></h2>
+            </div>
+            <div id="lista-conteudos"></div>
+        </section>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        fetch('components/header.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header-placeholder').innerHTML = data);
+
+        fetch('components/footer.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('footer-placeholder').innerHTML = data);
+    </script>
+
+    <script src="js/categoria.js"></script>
+</body>
+
+</html>

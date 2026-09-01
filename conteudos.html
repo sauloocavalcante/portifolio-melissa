@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melissa Buarque - Conteúdos</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="js/backtop.js" defer></script>
+    <script src="js/conteudos.js" defer></script>
+</head>
+
+<body>
+    <!-- ========== HEADER (carregado via JS) ========== -->
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <section class="page">
+            <div class="conteudo-categoria">
+                <div class="categoria-header">
+                    <h2>Reportagens</h2>
+
+                    <a href="categoria.html?categoria=reportagens">
+                        Ver todas
+                    </a>
+                </div>
+
+                <div class="conteudos-lista" id="reportagens"></div>
+            </div>
+
+            <div class="conteudo-categoria">
+                <div class="categoria-header">
+                    <h2>Matérias</h2>
+
+                    <a href="categoria.html?categoria=materias">
+                        Ver todas
+                    </a>
+                </div>
+
+                <div class="conteudos-lista" id="materias"></div>
+            </div>
+
+            <div class="conteudo-categoria">
+                <div class="categoria-header">
+                    <h2>Crônicas</h2>
+
+                    <a href="categoria.html?categoria=cronicas">
+                        Ver todas
+                    </a>
+                </div>
+
+                <div class="conteudos-lista" id="cronicas"></div>
+            </div>
+
+            <div class="conteudo-categoria">
+                <div class="categoria-header">
+                    <h2>Artigos de opinião</h2>
+
+                    <a href="categoria.html?categoria=artigos-opiniao">
+                        Ver todas
+                    </a>
+                </div>
+
+                <div class="conteudos-lista" id="artigos-opiniao"></div>
+            </div>
+
+
+            <div class="conteudo-categoria">
+                <div class="categoria-header">
+                    <h2>Resenhas</h2>
+
+                    <a href="categoria.html?categoria=resenhas">
+                        Ver todas
+                    </a>
+                </div>
+
+                <div class="conteudos-lista" id="resenhas"></div>
+            </div>
+        </section>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        fetch('components/header.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header-placeholder').innerHTML = data);
+
+        fetch('components/footer.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('footer-placeholder').innerHTML = data);
+    </script>
+</body>
+
+</html>
