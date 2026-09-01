@@ -1,0 +1,182 @@
+[
+    {
+        "id": "estudantes-protestam-flavio-bolsonaro",
+        "categoria": "materias",
+        "titulo": "Estudantes protestam durante passagem da carreata de Flávio Bolsonaro",
+        "data": "2026-08-25",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/7c6a3677-b9ec-4abe-8002-4c81f760332d.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/08/25/estudantes-protestam-durante-passagem-da-carreata-de-flavio-bolsonaro-por-maceio"
+    },
+    {
+        "id": "clinica-veterinaria",
+        "categoria": "materias",
+        "titulo": "“A vontade de desistir fica cada vez maior”: clínica veterinária soma prejuízo de R$ 30 mil após seis invasões",
+        "data": "2026-07-31",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/4f20a64e-39e3-4dfe-bf83-dbe839ac0c26.png/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/31/a-vontade-de-desistir-fica-cada-vez-maior-clinica-veterinaria-soma-r-30-mil-apos-seis-invasoes"
+    },
+    {
+        "id": "ponto-parada",
+        "categoria": "cronicas",
+        "titulo": "Ponto de parada",
+        "data": "2026-08-31",
+        "imagem": "https://www.alagoas24horas.com.br/wp-content/uploads/2018/08/DSC_0007.jpg",
+        "tipo": "interno",
+        "link": "intern_contents/ponto-parada.md"
+    },
+    {
+        "id": "nao-pretoendo-votar",
+        "categoria": "reportagens",
+        "titulo": "‘Não pretendo votar’: jovens de Alagoas relatam distância da política nas Eleições 2026",
+        "data": "2026-08-30",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/daa54dcd-6a2c-4f1d-b974-a3e54ee262e6.jpg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/08/30/nao-pretendo-votar-jovens-de-alagoas-relatam-distancia-da-politica-nas-eleicoes-2026"
+    },
+    {
+        "id": "morar-sozinho",
+        "categoria": "reportagens",
+        "titulo": "“Morar sozinho com um salário mínimo é cruel”: alto custo de vida em AL adia saída de jovens da casa dos pais",
+        "data": "2026-08-02",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/642d8345-7abe-4fe5-adec-683b0d15cdca.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/08/02/morar-sozinho-com-um-salario-minimo-e-cruel-alto-custo-de-vida-em-al-adia-sonho-de-independencia"
+    },
+    {
+        "id": "eu-poderia-ter-reagido",
+        "categoria": "reportagens",
+        "titulo": "“Eu poderia ter reagido”: entre proteção e riscos, mulheres de AL avaliam lei do spray",
+        "data": "2026-07-31",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/5a0ee6cf-25b7-40e8-8231-6647ee3c7fcb.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/31/eu-poderia-ter-reagido-entre-protecao-e-riscos-mulheres-de-al-avaliam-lei-do-spray"
+    },
+    {
+        "id": "sonhos-adiados",
+        "categoria": "reportagens",
+        "titulo": "Sonhos adiados e jornadas extensas: a realidade das domésticas em Alagoas",
+        "data": "2026-07-19",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/24c7bf68-e5be-41fc-915d-f4cd12c1e2c0.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/19/sonhos-adiados-e-jornadas-extensas-a-realidade-das-domesticas-em-alagoas"
+    },
+    {
+        "id": "projeto-que-dificulta-aborto-legal-preocupa-especialistas-em-al",
+        "categoria": "reportagens",
+        "titulo": "Projeto que dificulta aborto legal preocupa especialistas em AL: ‘Quem deveria proteger é quem agride’",
+        "data": "2026-07-06",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/a19c205c-5c73-4396-a101-3cd11b20139e.jpg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/06/projeto-que-dificulta-aborto-legal-preocupa-especialistas-em-al-quem-deveria-proteger-e-quem-agride"
+    },
+    {
+        "id": "a-lei-como-escudo",
+        "categoria": "reportagens",
+        "titulo": "A lei como escudo: acervo histórico revela resistência jurídica de escravizados em Alagoas",
+        "data": "2026-05-13",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/9c12d0f9-63c5-4d69-86d8-aa1bdbb6e795.JPG/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/05/13/a-lei-como-escudo-acervo-histórico-revela-resistência-jurídica-de-escravizados-em-alagoas"
+    },
+    {
+        "id": "juros-altos-e-efeito-bola-de-neve",
+        "categoria": "reportagens",
+        "titulo": "Juros altos e efeito bola de neve: crédito fácil impulsiona avanço das dívidas entre jovens em AL",
+        "data": "2026-05-01",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/8cb70cfd-6ee5-4ee1-add5-54f001de41f6.webp/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/05/01/juros-altos-e-efeito-bola-de-neve-credito-facil-impulsiona-avanco-das-dividas-entre-jovens-em-al"
+    },
+    {
+        "id": "poucas-vezes-eu-vi-esse-lugar-ocupado",
+        "categoria": "reportagens",
+        "titulo": "‘Poucas vezes eu vi esse lugar ocupado’: insegurança e abandono esvaziam entorno cultural da Praça Sinimbu",
+        "data": "2026-07-05",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/87f1c733-45b4-43ff-a227-9fe083acaa3e.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/05/poucas-vezes-eu-vi-esse-lugar-ocupado-inseguranca-e-abandono-esvaziam-entorno-cultural-da-praca-sinimbu"
+    },
+    {
+        "id": "somos-vitimas-nao-culpados",
+        "categoria": "reportagens",
+        "titulo": "‘Somos vítimas, não culpados’: moradores dos Flexais resistem ao apagamento institucional em Maceió",
+        "data": "2026-04-26",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/73c4d3d0-247e-40c5-899f-2d96f1a5ff8a.webp/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/04/26/somos-vitimas-nao-culpados-moradores-dos-flexais-resistem-ao-apagamento-institucional-em-maceio"
+    },
+    {
+        "id": "risco-a-vida-dos-trabalhadores",
+        "categoria": "materias",
+        "titulo": "‘“Risco à vida dos trabalhadores”: Fábrica é interditada após vazamento de amônia em AL",
+        "data": "2026-08-18",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/2227c8bf-57a4-44ef-8c12-55c2b5e8a007.webp/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/08/18/risco-a-vida-dos-trabalhadores-fabrica-e-interditada-apos-vazamento-de-amonia-em-al"
+    },
+    {
+        "id": "fogo-destruir-confeitaria",
+        "categoria": "materias",
+        "titulo": "‘Após fogo destruir confeitaria de bolos gigantes, família inicia campanha em Maceió",
+        "data": "2026-07-10",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/c2054daf-4357-4118-9963-7b583b2385e3.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/10/apos-fogo-destruir-confeitaria-de-bolos-gigantes-familia-inicia-campanha-em-maceio"
+    },
+    {
+        "id": "recem-nascida-morre-chikungunya",
+        "categoria": "materias",
+        "titulo": "‘Recém-nascida morre por chikungunya e São Miguel dos Campos registra 3 óbitos pela doença em 39 dias ",
+        "data": "2026-07-10",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/ad4fc782-5187-4e5d-8731-630c700a7bab.jpg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/09/recem-nascida-morre-por-chikungunya-e-sao-miguel-dos-campos-registra-3-obitos-pela-doenca-em-39-dias"
+    }, 
+    {
+        "id": "morte-bebe-chikungunya",
+        "categoria": "materias",
+        "titulo": "‘Morte de bebê por chikungunya em AL alerta para transmissão da doença durante a gestação",
+        "data": "2026-07-13",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/c2054daf-4357-4118-9963-7b583b2385e3.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/13/morte-de-bebe-por-chikungunya-em-al-alerta-para-transmissao-da-doenca-durante-a-gestacao"
+    },
+    {
+        "id": "alerta-defesa-civil",
+        "categoria": "materias",
+        "titulo": "Alerta mantido: Defesa Civil monitora bacias hidrográficas e encostas após fim de semana de chuva",
+        "data": "2026-05-11",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/cee5b894-8165-42ae-85fb-3d10b8117ab0.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/05/11/alerta-mantido-defesa-civil-monitora-bacias-hidrograficas-e-encostas-apos-fim-de-semana-de-chuva"
+    },
+    {
+        "id": "enfermeiros-greve",
+        "categoria": "materias",
+        "titulo": "Enfermeiros de dois hospitais de Maceió entram em greve por salários atrasados e más condições",
+        "data": "2026-05-26",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/22d8465e-53d7-4024-80b7-9a7fd11f96ec.jpg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/05/05/enfermeiros-de-dois-hospitais-de-maceio-entram-em-greve-por-salarios-atrasados-e-mas-condicoes"
+    },
+    {
+        "id": "novos-olhares-em-cena",
+        "categoria": "resenhas",
+        "titulo": "Novos olhares em cena: Mostra Primeira Vista revela talentos do cinema alagoano",
+        "data": "2026-07-26",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/cfe59f7f-ddd0-4c07-92ba-1d62588800b4.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/07/26/novos-olhares-em-cena-mostra-primeira-vista-revela-talentos-do-cinema-alagoano"
+    },
+    {
+        "id": "cinemas-de-al-se-transformam-em-passarelas",
+        "categoria": "resenhas",
+        "titulo": "Cinemas de AL se transformam em passarelas com 'O Diabo Veste Prada 2'",
+        "data": "2026-07-26",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/eb05e6f1-3497-464c-aaf6-e9a45c875f1e.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/05/05/cinemas-de-al-se-transformam-em-passarelas-com-o-diabo-veste-prada-2"
+    }
+]
