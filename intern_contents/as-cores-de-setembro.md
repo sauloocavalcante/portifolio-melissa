@@ -1,5 +1,3 @@
-**O tempo e as cores de setembro**
-
 Primeiro de setembro de dois mil e vinte e seis
 
 Escrever a data por extenso é uma prática antiga que sempre me ajuda a dar ênfase ao fato de que os meses e os dias do ano já avançaram. Sempre que penso nisso, lembro-me da icônica fala da personagem Fátima, interpretada pela magistral Fernanda Torres, em _Tapas & Beijos_: "O tempo está passando, Sueli. Ó, passou de novo", lembra Fátima em um dos tantos diálogos incríveis da série, que viraram meme. Penso que esse é o tipo de humor de que sinto falta nas produções atuais. Já não se fazem audiovisuais como antigamente.
