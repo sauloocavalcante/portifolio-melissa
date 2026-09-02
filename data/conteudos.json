@@ -178,5 +178,14 @@
         "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/eb05e6f1-3497-464c-aaf6-e9a45c875f1e.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
         "tipo": "externo",
         "link": "https://www.cadaminuto.com.br/noticia/2026/05/05/cinemas-de-al-se-transformam-em-passarelas-com-o-diabo-veste-prada-2"
+    },
+    {
+        "id": "o-tempo-e-as-cores-de-setembro",
+        "categoria": "cronicas",
+        "titulo": "O tempo e as cores de setembro",
+        "data": "2026-07-26",
+        "imagem": "fotos-mel/cronica-1.jpeg",
+        "tipo": "interno",
+        "link": "intern_contents/as-cores-de-setembro.md"
     }
 ]
