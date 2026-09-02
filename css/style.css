@@ -88,6 +88,44 @@ nav a:hover {
 }
 
 /* ============================================================ */
+/* MENU HAMBÚRGUER (mobile)                                     */
+/* ============================================================ */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+    padding: 8px;
+    z-index: 200;
+}
+
+.hamburger span {
+    display: block;
+    width: 28px;
+    height: 3px;
+    background: white;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+/* Anima as barrinhas para virar um "X" quando aberto */
+.menu-toggle:checked ~ .hamburger span:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+
+.menu-toggle:checked ~ .hamburger span:nth-child(2) {
+    opacity: 0;
+}
+
+.menu-toggle:checked ~ .hamburger span:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+/* ============================================================ */
 /* PÁGINA – ESTRUTURA PRINCIPAL                          */
 /* ============================================================ */
 .page {
@@ -568,27 +606,52 @@ footer {
 
 /* MOBILE */
 @media (max-width: 767px) {
-    header {
-        padding: 2rem 0;
+        header {
+        padding: 0.8rem 0;
     }
 
     header h1 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .tagline {
-        font-size: 1rem;
+        font-size: 0.9rem;
+        margin-bottom: 0;
+    }
+
+    .header-content {
+        position: relative;
+        flex-wrap: wrap;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .categoria-header h2::after {
+        width: 100%;   /* ou um valor fixo menor, tipo 250px */
     }
 
     nav {
         flex-direction: column;
         align-items: center;
+        max-height: 0;
+        overflow: hidden;
+        width: 100%;
+        transition: max-height 0.3s ease;
+    }
+
+    .menu-toggle:checked ~ nav {
+        max-height: 300px;
+        margin-top: 1rem;
     }
 
     nav a {
         margin: 0;
+        padding: 10px 20px;
+        width: 100%;
+        text-align: center;
     }
-
     .page {
         padding: 1.2rem;
     }
