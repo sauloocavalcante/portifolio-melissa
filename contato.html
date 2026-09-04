@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Melissa Buarque - Contato</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="js/backtop.js" defer></script>
+</head>
+
+<body>
+    <!-- ========== HEADER (carregado via JS) ========== -->
+    <div id="header-placeholder"></div>
+
+    <main class="container">
+        <section class="page">
+            <div class="texto contato-intro">
+                <h2>Contato</h2>
+                <p>
+                    Tem uma pauta, sugestão de parceria ou quer bater um papo sobre jornalismo,
+                    cultura ou tecnologia? Fico feliz em conversar — escolha o canal que preferir
+                    abaixo.
+                </p>
+            </div>
+
+            <div class="contato-grid">
+
+                <a href="https://linkedin.com/in/melissa-buarque-2772533a8" target="_blank" rel="noopener"
+                    class="contato-card">
+                    <i class="fab fa-linkedin"></i>
+                    <span class="contato-label">LinkedIn</span>
+                    <span class="contato-detail">melissa-buarque</span>
+                </a>
+
+                <a href="https://instagram.com/melissa.buarque" target="_blank" rel="noopener" class="contato-card">
+                    <i class="fab fa-instagram"></i>
+                    <span class="contato-label">Instagram</span>
+                    <span class="contato-detail">@melissa.buarque</span>
+                </a>
+
+                <a href="mailto:melissabuarquejornalista@gmail.com" class="contato-card">
+                    <i class="fas fa-envelope"></i>
+                    <span class="contato-label">E-mail</span>
+                    <span class="contato-detail">melissabuarquejornalista@gmail.com</span>
+                </a>
+            </div>
+
+            <p class="contato-cta">
+                Respondo o mais rápido possível — geralmente em até 48h úteis.
+            </p>
+        </section>
+    </main>
+
+    <div id="footer-placeholder"></div>
+
+    <script>
+        fetch('components/header.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('header-placeholder').innerHTML = data);
+
+        fetch('components/footer.html')
+            .then(response => response.text())
+            .then(data => document.getElementById('footer-placeholder').innerHTML = data);
+    </script>
+</body>
+
+</html>

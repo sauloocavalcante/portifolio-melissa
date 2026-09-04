@@ -496,6 +496,74 @@ footer {
 }
 
 /* ============================================================ */
+        /* PÁGINA DE CONTATO — usa as mesmas cores/sombras do style.css */
+        /* ============================================================ */
+        .contato-intro {
+            text-align: center;
+            max-width: 700px;
+            margin: 0 auto 3rem;
+        }
+
+        .contato-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .contato-card {
+            background: #f5f0f7;
+            border: 2px solid transparent;
+            border-radius: 20px;
+            padding: 2.5rem 1.5rem;
+            text-align: center;
+            text-decoration: none;
+            color: #4a2c6d;
+            box-shadow: 0 5px 15px rgba(74, 44, 109, 0.1);
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.8rem;
+        }
+
+        .contato-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 10px 25px rgba(74, 44, 109, 0.25);
+            background: white;
+            border-color: #6b3fa0;
+        }
+
+        .contato-card i {
+            font-size: 2.5rem;
+            color: #6b3fa0;
+        }
+
+        .contato-label {
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .contato-detail {
+            font-size: 0.9rem;
+            color: #666;
+            word-break: break-word;
+        }
+
+        .contato-cta {
+            text-align: center;
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid #e8ddf5;
+            color: #555;
+        }
+
+        @media (max-width: 767px) {
+            .contato-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+/* ============================================================ */
 /* ANIMAÇÕES                                                    */
 /* ============================================================ */
 @keyframes gradientShift {
