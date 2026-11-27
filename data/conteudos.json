@@ -187,5 +187,68 @@
         "imagem": "fotos-mel/cronica-1.jpeg",
         "tipo": "interno",
         "link": "intern_contents/as-cores-de-setembro.md"
+    },
+    {
+        "id": "por-tras-do-resultado-a-eleição-que-escapou-as-certezas",
+        "categoria": "artigos-opiniao",
+        "titulo": "Por trás do resultado: a eleição que escapou às certezas",
+        "data": "2026-10-27",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/a1810975-6e88-4649-8061-13e9b32cd078.webp/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/10/27/por-tras-do-resultado-a-eleicao-que-escapou-as-certezas"
+    },
+    {
+        "id": "mata-atlantica-da-lugar-a-condominio-em-maceio",
+        "categoria": "reportagens",
+        "titulo": "Mata Atlântica dá lugar a condomínio de quatro torres em Maceió; MP apura derrubada",
+        "data": "2026-10-23",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/135da99f-8afa-47c7-ac97-0e4fe319376e.png/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/10/23/mata-atlantica-da-lugar-a-condominio-de-quatro-torres-em-maceio-mp-apura-derrubada"
+    },
+    {
+        "id": "moradores-relatam-perda-de-vegetacao-em-maceio",
+        "categoria": "materias",
+        "titulo": "‘É revoltante’: moradores relatam perda maior de vegetação antes da Justiça suspender corte em Maceió",
+        "data": "2026-11-25",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/50b995f6-1c06-4598-90f2-2ca313b4ec54.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/11/25/e-revoltante-moradores-relatam-perda-maior-de-vegetacao-antes-da-justica-suspender-corte-em-maceio"
+    },
+    {
+        "id": "artistas-negros-de-al-transformam-historias-em-arte",
+        "categoria": "reportagens",
+        "titulo": "‘É um exercício de resistência’: artistas negros de AL transformam histórias e memórias em arte",
+        "data": "2026-11-20",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/04ca0f11-f5b6-4041-a717-a73922227e78.jpeg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/11/20/e-um-exercicio-de-resistencia-artistas-negros-de-al-transformam-historias-e-memorias-em-arte"
+    },
+    {
+        "id": "enem-jovens-de-alagoas-enfrentam-distancia-e-pressao",
+        "categoria": "reportagens",
+        "titulo": "Enem 2026: jovens de Alagoas enfrentam distância e pressão para chegar à universidade",
+        "data": "2026-11-08",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/54a3c5a2-f8d9-4108-abcd-f1baf5702fef.webp/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/11/08/enem-2026-jovens-de-alagoas-enfrentam-distancia-e-pressao-para-chegar-a-universidade"
+    },
+    {
+        "id": "entre-escolha-e-abstencao-decisao-que-projeta-alagoas",
+        "categoria": "reportagens",
+        "titulo": "Entre a escolha e a abstenção: a decisão que projeta Alagoas para os próximos 4 anos",
+        "data": "2026-10-25",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/b4a6d5b7-6bc1-4e82-aa84-c302bc56a8d6.webp/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/10/25/entre-a-escolha-e-a-abstencao-a-decisao-que-projeta-alagoas-para-os-proximos-4-anos"
+    },
+    {
+        "id": "vida-de-jovens-apos-avc-em-alagoas",
+        "categoria": "reportagens",
+        "titulo": "‘Eu tive que começar tudo de novo’: a vida de jovens após um AVC em Alagoas",
+        "data": "2026-11-22",
+        "imagem": "https://img.cadaminuto.com.br/cadaminuto/imagens/ca527f14-b3ff-422e-a564-b77a21f971a4.jpg/:/rs=w:697,h:465,i:true,cg:true,ft:cover?cache=true",
+        "tipo": "externo",
+        "link": "https://www.cadaminuto.com.br/noticia/2026/11/22/eu-tive-que-comecar-tudo-de-novo-a-vida-de-jovens-apos-um-avc-em-alagoas"
     }
 ]
